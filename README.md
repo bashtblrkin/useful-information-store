@@ -2,7 +2,7 @@
 Тут хранятся годные гайды, видео, статьи, курсы по программированию.
 
 # Видео
-https://www.youtube.com/watch?v=Zy-Oj6qs8vo
+Архитектура React - приложения – Егор Блинов https://www.youtube.com/watch?v=Zy-Oj6qs8vo  
 
 # Статьи
 Реализация архитектуры Redux на MobX. Часть 1: «Проблемные места Redux» https://habr.com/ru/post/546606/  
