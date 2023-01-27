@@ -14,3 +14,6 @@ MobX c MVVM хорош, но с DI ещё лучше https://habr.com/ru/post/70
 # Фреймворки
 Qwik https://qwik.builder.io/  
 Builder io (Для лендингов, магазинов и тд.) https://www.builder.io/  
+
+# Репозитории
+react-vvm (Реализация паттерна MVVM) https://github.com/Yoskutik/react-vvm/tree/master/packages/react-vvm  
